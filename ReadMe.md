@@ -8,4 +8,4 @@ English (English),
 Lairad (Luinre),
 Japanese (日本語)
 # read this pls
-my english is bad sorry
+my english is bad sorry, project is WIP
